@@ -1,1 +1,2 @@
 This is my first line for the Git demo.
+Adding a second line to demo.txt
